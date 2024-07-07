@@ -10,7 +10,7 @@ def grab_next_hour_price_prediction(token_address, chain):
         raise ValueError("Not Yet Supported")
     
     latest_prediction = requests.get(pond_api+"predict/{}".format(token_address)).json()[0]
-    return latest_prediction
+    return latest_prediction["prediction"]
 
 
-def 
+# def 

@@ -162,6 +162,7 @@ cython_debug/
 #.idea/
 
 design.txt
-propagandists/bot_test.ipynb
+propagandists/materials/*.json
+propagandists/sample_bot.py
 
 # /factory/*.ipynb
