@@ -8,3 +8,4 @@ Cuz so much of education is really boilerplate and could be automated. Also addi
 
 ## How does it work?
 Grab a character that represents your community, choose what kind of lessons or messages you'd like to communicate to your community, and let a TG bot do your job!
+
